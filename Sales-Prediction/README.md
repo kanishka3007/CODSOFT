@@ -21,12 +21,6 @@ This project predicts product sales based on advertising budgets using a Linear 
 3. Run the Python program.
       python sales_prediction.py
    
-## Project Structure
-
-Sales-Prediction/
-├── sales_prediction.py/
-├── sales-prediction.csv/
-├── README.md
 
 ## Output
 The model predicts sales and displays the evaluation metrics, including the R² score.
