@@ -24,8 +24,8 @@ This project predicts product sales based on advertising budgets using a Linear 
 ## Project Structure
 
 Sales-Prediction/
-├── sales_prediction.py
-├── sales-prediction.csv
+├── sales_prediction.py/
+├── sales-prediction.csv/
 ├── README.md
 
 ## Output
